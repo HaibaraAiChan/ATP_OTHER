@@ -4,4 +4,4 @@
 
 ### the ROC curve is shown below:  
 
-![eg_image](https://github.com/HaibaraAiChan/ATP_OTHER_small/blob/master/ATP_pos_80.png)
+![eg_image](https://github.com/HaibaraAiChan/ATP_OTHER/blob/master/ATP_pos_80.png)
